@@ -1,5 +1,7 @@
 package com.dio.controlaccess.model;
 
+import javax.persistence.OneToMany;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
@@ -13,8 +15,11 @@ import lombok.Setter;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-public class JornadaTrabalho {
-	private long id;
+public class Localidade {
+	private Long id;
+	
+	@OneToMany
+	private NivelAcesso nivelAcesso;
 	private String descricao;
 
 }

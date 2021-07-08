@@ -13,8 +13,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-public class JornadaTrabalho {
-	private long id;
+public class NivelAcesso {
+	private Long id;
 	private String descricao;
-
 }
