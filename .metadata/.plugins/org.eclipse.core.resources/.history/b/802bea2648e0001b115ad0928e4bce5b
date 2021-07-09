@@ -1,0 +1,5 @@
+package com.dio.controlaccess.model;
+
+public class TipoData {
+
+}

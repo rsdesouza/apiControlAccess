@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;diolive-master&apos;" deleteContents="false" description="Delete resource &apos;diolive-master&apos;" element1="/diolive-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625766072034"/>&#x0A;<refactoring comment="Delete resource &apos;controlaccess&apos;" deleteContents="false" description="Delete resource &apos;controlaccess&apos;" element1="/controlaccess" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625839833555"/>
+</session>
